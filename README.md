@@ -7,5 +7,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a serial napper and can sleep almost anywhere.
 
+[![Betty's github stats](https://github-readme-stats.vercel.app/api?username=bettybondoc&theme=dark)](https://github.com/bettybondoc/github-readme-stats)
+
 <!-- - 👯 I’m looking to collaborate on ... --!>
 <!-- - 🤔 I’m looking for help with ... --!>
