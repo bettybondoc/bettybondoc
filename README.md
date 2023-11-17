@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at SSW
+- 🔭 I’m currently working at SSW [![ssw.com.au/people/betty-bondoc]](https://www.ssw.com.au/people/betty-bondoc/)
 - 🌱 I’m currently learning React
 - 💬 Ask me about UI/UX, CSS, JavaScript, Adobe and Project Management
 - 📫 How to reach me: @bettybondoc
